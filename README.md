@@ -4,7 +4,7 @@ Running through the 2019 [Traversy tutorial](https://www.youtube.com/watch?v=Wy9
 
 This is a simple todo project, where the use can add a todo. It shows up in a list. User can check 'completed' and the text appears crossed out. They also have the option to delete the todo by clicking a red x. (commit 9f040e069b744f)
 
-Added a JSON Placeholder fake API. ()
+Added a JSON Placeholder fake API and routing. ()
 
 
 @vue/cli 4.5.11
